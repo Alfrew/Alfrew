@@ -18,7 +18,6 @@
 
 <div align="center">
   <h3> Language & Tools </h3>
-  <img src="https://github.com/Alfrew/Alfrew/assets/102723851/602dced6-47d9-4fba-952f-4ab563e76f82" alt="Visual Studio Code" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/5efa3f67-1fd9-4970-908b-fc8db8999201" alt="HTML" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/42db0b32-25fb-4e7c-b9e0-9808c8052fb2" alt="CSS" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/54d9510e-1746-4ab9-a4e4-35356d0dd517" alt="JavaScript" width="100" height="100">
@@ -29,6 +28,7 @@
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/ec6202a5-b1df-4266-af37-e0ab5eba7715" alt="BootStrap" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/f1b3b0c2-8050-4737-afe2-a8fa2dc17330" alt="Angular" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/947bef77-9daf-4d49-adf4-e2ec7bfa9624" alt="NGRX" width="100" height="100">
+  <img src="https://github.com/Alfrew/Alfrew/assets/102723851/602dced6-47d9-4fba-952f-4ab563e76f82" alt="Visual Studio Code" width="100" height="100">
 </div>
 
 <hr/>
