@@ -28,6 +28,7 @@
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/ec6202a5-b1df-4266-af37-e0ab5eba7715" alt="BootStrap" width="100" height="100">
   <img src="https://github.com/user-attachments/assets/f5b68d86-8a1d-4886-ae91-2d82d80b5e4d" alt="Bulma CSS" width="100" height="100">
   <img src="https://github.com/user-attachments/assets/c5369295-f3cc-4f3e-a68d-4fdfada03f14" alt="Vue" width="110" height="90">
+  <img src="https://github.com/user-attachments/assets/f8e8ff81-9f38-4302-b6c2-6604ad3ea663" alt="Firebase" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/f1b3b0c2-8050-4737-afe2-a8fa2dc17330" alt="Angular" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/947bef77-9daf-4d49-adf4-e2ec7bfa9624" alt="NGRX" width="100" height="100">
   <img src="https://github.com/Alfrew/Alfrew/assets/102723851/602dced6-47d9-4fba-952f-4ab563e76f82" alt="Visual Studio Code" width="100" height="100">
